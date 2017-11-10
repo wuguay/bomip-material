@@ -1,2 +1,2 @@
-# bomip-material
-Bomip Material
+# bomip-ionic
+Bomip Ionic
